@@ -10,7 +10,7 @@ pipeline {
 
         stage('Stage 2') {
             steps {
-                sh 'echo "Stage 2 Modifiedd"'
+                sh 'echo "Stage 2 Modified"'
             }
         }
     }
